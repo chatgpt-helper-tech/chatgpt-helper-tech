@@ -1,82 +1,47 @@
-# 🤖 ChatGPT 中文助手导航站（适合中国用户 · 2025）
+# 👋 欢迎访问 ChatGPT 中文助手导航站 · chatgpt-helper-tech
 
-ChatGPT 席卷全球，但对中国用户而言，从注册、升级到科学上网，仍然面临诸多限制。
-
-本项目以 **中文用户视角 + 实测数据支撑**，为你搭建起一条稳定可复制的路径。你将在这里获得：
-
-- ✅ 一站式注册与升级教程（适合初学者）
-- ✅ 免费访问 OpenAI 的方法（翻墙技巧）
-- ✅ GPT-4 Plus 升级方案（含虚拟卡支付）
-- ✅ 高性价比 VPN 和机场推荐（亲测）
-- ✅ ChatGPT 常见问题解决策略（稳定使用）
+我们致力于为中文用户提供最完整、最可落地的 ChatGPT 使用解决方案：  
+从注册账号、升级 GPT-4 Plus、科学上网工具推荐，到 AI 工具生态的实测评测，全流程图文引导，一步到位。
 
 ---
 
-## 🚀 快速访问 ChatGPT 官网的方法（国内用户）
+## 🔗 主站入口
 
-国内用户常见的第一个问题就是：**打不开 https://chat.openai.com**
-
-解决方案：你可以先使用一个安全稳定的 **免费机场跳板**，临时访问外网：
-
-👉 [注册免费科学上网 V2free（每日免费流量 · 即可访问 ChatGPT 官网）](https://w1.v2free.cc/auth/register?code=i0A3)
-
-> 无需付费 · 支持电脑 / 手机使用 · 注册即送节点访问权限  
-> 建议用于：首次注册、查看官网、访问 VPN 页面等
+🌐 官网地址 👉 https://chatgpt-helper-tech.github.io
 
 ---
 
-## 🧭 教程模块导航
+## 📚 核心教程
 
-### 📝 [ChatGPT 注册教程（免手机号）](https://chatgpt-helper-tech.github.io/chatgpt-register-guide/)
-- 使用 Gmail/Outlook 快速注册 OpenAI 账号
-- 适合中国用户的图文教程
-
-### 💳 [ChatGPT Plus 升级攻略](https://chatgpt-helper-tech.github.io/chatgpt-plus-guide/)
-- 解决信用卡绑定问题：使用野卡虚拟卡（支付宝充值）
-- 解锁 GPT-4.5、网页搜索、图片生成等功能
-
-### 🔐 [2025 VPN 推荐榜单](https://chatgpt-helper-tech.github.io/network-access/)
-- 含 ExpressVPN、Surfshark、NordVPN 横评
-- 真实连接成功率、速度、支持设备详细对比
-
-### ✈️ [2025 机场推荐指南（含中文界面和性价比选择）](https://chatgpt-helper-tech.github.io/airport-access/)
-- 适合轻量或进阶用户的科学上网方案
-- 精选 Lion、加速喵、FLYINGBIRD 等站点
+| 教程模块 | 描述 |
+|----------|------|
+| [ChatGPT 注册教程](https://chatgpt-helper-tech.github.io/chatgpt-register-guide/) | 免手机号注册 · Gmail 推荐方案 |
+| [ChatGPT Plus 升级教程](https://chatgpt-helper-tech.github.io/chatgpt-plus-guide/) | 使用野卡虚拟卡 + 支付宝付款 |
+| [VPN 推荐榜单](https://chatgpt-helper-tech.github.io/network-access/) | 专为中国用户测试的 VPN 工具 |
+| [机场推荐指南](https://chatgpt-helper-tech.github.io/airport-access/) | 免费 & 高性价比科学上网机场 |
+| ✨ 提示词指南（即将上线） | ChatGPT 提示词分类模板大全 |
 
 ---
 
-## 💡 为什么值得信任这个项目？
+## 🧠 我们解决这些问题：
 
-本项目由 ChatGPT 中文创作团队主理，内容非复制搬运，所有方案均经实测可复现：
+- ChatGPT 无法访问、注册失败、收不到验证码？
+- GPT Plus 无法绑定信用卡，无法升级？
+- 不懂机场与 VPN 的区别与选择？
+- 想用 AI 辅助办公、写作、编程但无从下手？
 
-- ✅ 实测注册 ChatGPT 账号 10+ 次（不同网络+邮箱）
-- ✅ 成功使用野卡虚拟卡开通 GPT Plus 并截图记录
-- ✅ 对比并评测了多个 VPN 和机场工具（节点稳定性、翻墙成功率）
-- ✅ 提供每一步骤的操作建议、配置截图和失败应对方案
-
-> 你不再需要翻遍英文教程、不再担心操作失误，我们已经踩过坑，帮你整理好了完整路径。
+我们都准备好了 ✅
 
 ---
 
-## 🎯 我们帮助的典型用户
+## 💼 项目特点
 
-- 刚接触 AI 的新用户：想知道 ChatGPT 是什么，怎么注册
-- 有 ChatGPT 账号但不能升级的用户：被信用卡限制所困扰
-- 创作者/程序员：需要长时间稳定访问 GPT-4o、生成内容或调用 API
-- 想搭建 AI 工具矩阵的团队成员：需要多平台账号、节点支持
-
----
-
-## 📚 推荐从以下路径开始：
-
-1. 👉 [无法访问官网？先注册免费机场](https://w1.v2free.cc/auth/register?code=i0A3)
-2. 👉 [还没有账号？点击查看 ChatGPT 注册教程](https://chatgpt-helper-tech.github.io/chatgpt-register-guide/)
-3. 👉 [不知道如何升级GPT Plus？查看 GPT Plus 升级攻略](https://chatgpt-helper-tech.github.io/chatgpt-plus-guide/)
-4. 👉 [想稳定安全科学上网？查看 VPN 推荐](https://chatgpt-helper-tech.github.io/network-access/)
-5. 👉 [高性价比科学上网？查看 机场 推荐](https://chatgpt-helper-tech.github.io/airport-access/)
+- 全中文、图文流程教程
+- 适配国内用户常见问题
+- 持续更新，紧跟 GPT 最新变化
+- 所有方案均经实测，无夸张宣传
 
 ---
 
-📬 本项目由 [chatgpt-helper-tech](https://github.com/chatgpt-helper-tech) 维护，面向中文用户持续更新  
-📂 GitHub Pages 主站地址：[https://chatgpt-helper-tech.github.io](https://chatgpt-helper-tech.github.io)  
-⭐ 如果你觉得本站有帮助，请点击 Star 或分享给有需要的朋友  
+📬 如果你觉得这些教程对你有帮助，欢迎访问主站并 Star 支持项目发展！  
+👉 https://chatgpt-helper-tech.github.io
