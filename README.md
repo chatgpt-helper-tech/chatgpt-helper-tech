@@ -17,8 +17,8 @@
 |----------|------|
 | [ChatGPT 注册教程](https://chatgpt-helper-tech.github.io/chatgpt-register-guide/) | 免手机号注册 · Gmail 推荐方案 |
 | [ChatGPT Plus 升级教程](https://chatgpt-helper-tech.github.io/chatgpt-plus-guide/) | 使用野卡虚拟卡 + 支付宝付款 |
-| [VPN 推荐榜单](https://chatgpt-helper-tech.github.io/network-access/) | 专为中国用户测试的 VPN 工具 |
-| [机场推荐指南](https://chatgpt-helper-tech.github.io/airport-access/) | 免费 & 高性价比科学上网机场 |
+| [科学上网 VPN 推荐](https://chatgpt-helper-tech.github.io/network-access/) | 专为中国用户测试的 VPN 工具 |
+| [科学上网 机场 推荐](https://chatgpt-helper-tech.github.io/airport-access/) | 免费 & 高性价比科学上网机场 |
 | ✨ 提示词指南（即将上线） | ChatGPT 提示词分类模板大全 |
 
 ---
