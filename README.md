@@ -43,5 +43,7 @@
 
 ---
 
-📬 如果你觉得这些教程对你有帮助，欢迎访问主站并 Star 支持项目发展！  
-👉 https://chatgpt-helper-tech.github.io
+📬 本项目由 [chatgpt-helper-tech](https://github.com/chatgpt-helper-tech) 维护，面向中文用户持续更新  
+📂 GitHub Pages 主站地址：[https://chatgpt-helper-tech.github.io](https://chatgpt-helper-tech.github.io)  
+⭐ 如果你觉得本站有帮助，请点击 Star 或分享给有需要的朋友  
+---
