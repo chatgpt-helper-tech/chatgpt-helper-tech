@@ -7,7 +7,7 @@
 
 ## 🔗 主站入口
 
-🌐 官网地址 👉 https://chatgpt-helper-tech.github.io
+🌐 官网地址 👉 https://gptvpnhelper.com
 
 ---
 
@@ -15,10 +15,10 @@
 
 | 教程模块 | 描述 |
 |----------|------|
-| [ChatGPT 注册教程](https://chatgpt-helper-tech.github.io/chatgpt-register-guide/) | 免手机号注册 · Gmail 推荐方案 |
-| [ChatGPT Plus 升级教程](https://chatgpt-helper-tech.github.io/chatgpt-plus-guide/) | 使用野卡虚拟卡 + 支付宝付款 |
-| [科学上网 VPN 推荐](https://chatgpt-helper-tech.github.io/network-access/) | 专为中国用户测试的 VPN 工具 |
-| [科学上网 机场 推荐](https://chatgpt-helper-tech.github.io/airport-access/) | 免费 & 高性价比科学上网机场 |
+| [ChatGPT 注册教程](https://gptvpnhelper.com/chatgpt-register-guide/) | 免手机号注册 · Gmail 推荐方案 |
+| [ChatGPT Plus 升级教程](https://gptvpnhelper.com/chatgpt-plus-guide/) | 使用野卡虚拟卡 + 支付宝付款 |
+| [科学上网 VPN 推荐](https://gptvpnhelper.com/network-access/) | 专为中国用户测试的 VPN 工具 |
+| [科学上网 机场 推荐](https://gptvpnhelper.com/airport-access/) | 免费 & 高性价比科学上网机场 |
 | ✨ 提示词指南（即将上线） | ChatGPT 提示词分类模板大全 |
 
 ---
@@ -44,6 +44,6 @@
 ---
 
 📬 本项目由 [chatgpt-helper-tech](https://github.com/chatgpt-helper-tech) 维护，面向中文用户持续更新  
-📂 GitHub Pages 主站地址：[https://chatgpt-helper-tech.github.io](https://chatgpt-helper-tech.github.io)  
+📂 GitHub Pages 主站地址：[https://gptvpnhelper.com](https://gptvpnhelper.com)  
 ⭐ 如果你觉得本站有帮助，请点击 Star 或分享给有需要的朋友  
 ---
