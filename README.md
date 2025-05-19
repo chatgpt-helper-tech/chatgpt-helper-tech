@@ -1,7 +1,7 @@
 # 👋 欢迎访问 ChatGPT 中文助手导航站 · chatgpt-helper-tech
 
 我们致力于为中文用户提供最完整、最可落地的 ChatGPT 使用解决方案：  
-从注册账号、升级 GPT-4 Plus、科学上网工具推荐，到 AI 工具生态的实测评测，全流程图文引导，一步到位。
+从注册账号、升级 GPT-4 Plus、科学上网教程,工具推荐，到 AI 工具生态的实测评测，全流程图文引导，一步到位。
 
 ---
 
@@ -17,8 +17,8 @@
 |----------|------|
 | [ChatGPT 注册教程](https://gptvpnhelper.com/chatgpt-register-guide/) | 免手机号注册 · Gmail 推荐方案 |
 | [ChatGPT Plus 升级教程](https://gptvpnhelper.com/chatgpt-plus-guide/) | 使用野卡虚拟卡 + 支付宝付款 |
-| [科学上网 VPN 推荐](https://gptvpnhelper.com/network-access/) | 专为中国用户测试的 VPN 工具 |
-| [科学上网 机场 推荐](https://gptvpnhelper.com/airport-access/) | 免费 & 高性价比科学上网机场 |
+| [科学上网教程 VPN 推荐](https://gptvpnhelper.com/network-access/) | 专为中国用户测试的 VPN 工具 |
+| [科学上网教程 机场 推荐](https://gptvpnhelper.com/airport-access/) | 免费 & 高性价比科学上网机场 |
 | ✨ 提示词指南（即将上线） | ChatGPT 提示词分类模板大全 |
 
 ---
