@@ -9,7 +9,7 @@
 
 ## 🔗 ChatGPT 中文助手导航站主站入口
 
-🌐 GitHub Pages官网地址 👉 https://gptvpnhelper.com
+🌐  ChatGPT 中文助手站官网地址 👉 https://gptvpnhelper.com
 
 ---
 
@@ -17,10 +17,10 @@
 
 | 教程模块 | 描述 |
 |----------|------|
-| [ChatGPT 注册教程](https://github.com/chatgpt-helper-tech/chatgpt-register-guide) | 免手机号注册 · Gmail 推荐方案 |
-| [ChatGPT Plus 升级教程](https://github.com/chatgpt-helper-tech/chatgpt-plus-guide) | 使用野卡虚拟卡 + 支付宝付款 |
-| [科学上网教程 VPN 推荐](https://github.com/chatgpt-helper-tech/network-access) | 专为中国用户测试的 VPN 工具 |
-| [科学上网教程 机场 推荐](https://github.com/chatgpt-helper-tech/airport-access) | 免费 & 高性价比科学上网机场 |
+| [ChatGPT 注册教程](https://gptvpnhelper.com/chatgpt-register-guide) | 免手机号注册 · Gmail 推荐方案 |
+| [ChatGPT Plus 升级教程](https://gptvpnhelper.com/chatgpt-plus-guide) | 使用野卡虚拟卡 + 支付宝付款 |
+| [科学上网教程 VPN 推荐](https://gptvpnhelper.com/network-access) | 专为中国用户测试的 VPN 工具 |
+| [科学上网教程 机场 推荐](https://gptvpnhelper.com/airport-access) | 免费 & 高性价比科学上网机场 |
 | ✨ 提示词指南（即将上线） | ChatGPT 提示词分类模板大全 |
 
 ---
